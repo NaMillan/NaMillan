@@ -1,4 +1,4 @@
-👋# Systems Engineer + Full Stack Developer
+#👋Systems Engineer + Full Stack Developer
 
 ✨**Get to know my special world of ideas**✨
 
