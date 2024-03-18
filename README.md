@@ -1,4 +1,4 @@
-# Systems engineer and Full stack developer👋
+👋# Systems Engineer + Full Stack Developer
 
 <!--
 ✨**Get to know my special world of ideas**✨
