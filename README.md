@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Java and PHP in greater depth.
 - 👯 I’m looking to collaborate in projects that allow me to contribute my knowledge and learn many more
 - 📫 How to reach me: `email`: nazarethmillan@gmail.com 
-                      [Perfil de LinkedIn](www.linkedin.com/in/nazareth-millan)
+                      `LinkedIn`:[Perfil de LinkedIn](www.linkedin.com/in/nazareth-millan)
