@@ -1,6 +1,5 @@
 👋# Systems Engineer + Full Stack Developer
 
-<!--
 ✨**Get to know my special world of ideas**✨
 
 ## 💬 Do you want to get to know me a little more?
@@ -11,5 +10,3 @@
 - 👯 I’m looking to collaborate in projects that allow me to contribute my knowledge and learn many more
 - 📫 How to reach me: `email`: nazarethmillan@gmail.com 
                       [Perfil de LinkedIn](www.linkedin.com/in/nazareth-millan)
-
--->
